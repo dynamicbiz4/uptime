@@ -11,7 +11,11 @@ sites:
     url: https://island-canvas.com
   - name: Goldan Paints
     url: https://www.goldenpaints.lk
-  
+  - name: eMatrix
+    url: https://ematrixit.com/
+  - name: MAD Monkey
+    url: https://madmonkeystudio.com.au/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
