@@ -58,9 +58,9 @@
     "url": "https://www.goldenpaints.lk",
     "icon": "https://icons.duckduckgo.com/ip3/www.goldenpaints.lk.ico",
     "slug": "goldan-paints",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 328,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-30": 0
+    }
   },
   {
     "name": "eMatrix",
