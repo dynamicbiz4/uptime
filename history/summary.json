@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/treescafekandy.com.ico",
     "slug": "trees-cafe",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 192,
-    "timeWeek": 182,
+    "timeDay": 188,
+    "timeWeek": 181,
     "timeMonth": 165,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2024-12-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Royal Bar & Hotel",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 153,
-    "timeWeek": 156,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 152,
+    "timeDay": 230,
+    "timeWeek": 165,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 395,
-    "timeWeek": 288,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 347,
+    "timeDay": 453,
+    "timeWeek": 321,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 260,
-    "timeWeek": 333,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 641,
+    "timeDay": 390,
+    "timeWeek": 348,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 169,
+    "time": 161,
+    "timeDay": 192,
     "timeWeek": 160,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 152,
-    "timeWeek": 204,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "time": 193,
+    "timeDay": 215,
+    "timeWeek": 199,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   }
 ]
