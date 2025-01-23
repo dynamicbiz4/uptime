@@ -40,9 +40,9 @@
     "url": "https://island-canvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/island-canvas.com.ico",
     "slug": "island-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 251,
     "timeMonth": 353,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   },
   {
     "name": "Goldan Paints",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.goldenpaints.lk.ico",
     "slug": "goldan-paints",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.58%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.02%",
     "time": 1645,
     "timeDay": 1590,
     "timeWeek": 3250,
