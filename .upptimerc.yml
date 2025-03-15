@@ -15,6 +15,10 @@ sites:
     url: https://ematrixit.com/
   - name: MAD Monkey
     url: https://madmonkeystudio.com.au/
+  - name: King Kandy
+    url: https://kingskandy.lk/
+  - name: Cyberflake
+    url: https://cyberflake.biz/
 
 
 status-website:
