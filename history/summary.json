@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/treescafekandy.com.ico",
     "slug": "trees-cafe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 190,
     "timeDay": 157,
     "timeWeek": 228,
     "timeMonth": 209,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-07-20": 0
+      "2025-07-20": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://royalbarandhotel.com",
     "icon": "https://icons.duckduckgo.com/ip3/royalbarandhotel.com.ico",
     "slug": "royal-bar-and-hotel",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.93%",
     "time": 204,
-    "timeDay": 117,
-    "timeWeek": 237,
-    "timeMonth": 228,
+    "timeDay": 144,
+    "timeWeek": 233,
+    "timeMonth": 227,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-07-20": 0,
+      "2025-07-20": 23,
       "2025-01-26": 225
     }
   },
@@ -224,7 +224,7 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-07-20": 1333,
+      "2025-07-20": 1357,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
@@ -403,19 +403,19 @@
     "url": "https://madmonkeystudio.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/madmonkeystudio.com.au.ico",
     "slug": "mad-monkey",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 228,
-    "timeWeek": 255,
-    "timeMonth": 236,
+    "timeDay": 181,
+    "timeWeek": 236,
+    "timeMonth": 231,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-07-20": 0
+      "2025-07-20": 23
     }
   },
   {
@@ -446,19 +446,19 @@
     "url": "https://cyberflake.biz/",
     "icon": "https://icons.duckduckgo.com/ip3/cyberflake.biz.ico",
     "slug": "cyberflake",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 145,
-    "timeWeek": 741,
-    "timeMonth": 326,
+    "timeDay": 192,
+    "timeWeek": 690,
+    "timeMonth": 325,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-07-20": 0
+      "2025-07-20": 23
     }
   }
 ]
