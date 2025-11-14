@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-11-14": 1004,
+      "2025-11-14": 1040,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-11-14": 1004,
+      "2025-11-14": 1040,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -649,9 +649,9 @@
     "url": "https://kingskandy.lk/",
     "icon": "https://icons.duckduckgo.com/ip3/kingskandy.lk.ico",
     "slug": "king-kandy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -661,6 +661,7 @@
     "timeMonth": 1185,
     "timeYear": 880,
     "dailyMinutesDown": {
+      "2025-11-14": 0,
       "2025-11-05": 35,
       "2025-08-30": 24,
       "2025-08-14": 18,
